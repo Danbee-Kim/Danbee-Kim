@@ -21,9 +21,4 @@
   
 </div>  
 
-<br />
-<br />
 
-<div align="center">
-    <img align=top src="https://github-readme-stats.vercel.app/api?username=Danbee-Kim&theme=calm&show_icons=true" />
-</div>
